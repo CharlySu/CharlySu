@@ -1,7 +1,7 @@
 <div align="center">
   <img width="2752" height="1536" alt="Perfil de Carlos Daniel" src="https://github.com/user-attachments/assets/0a001edc-6336-4519-a2ff-7f532729a31c" />
 
-  # 👨‍💻 Carlos Daniel
+  # 👨‍💻 Carlos Suquilanda Basto
   **Future Data Analyst & Software Developer 🚀**
 </div>
 
@@ -29,4 +29,4 @@ Actualmente dedico mi tiempo a investigar y desarrollar **múltiples proyectos s
 
 Mi ética de trabajo se ha forjado tanto escribiendo código como en la logística de eventos a gran escala y la atención al público. Esta combinación me ha enseñado habilidades clave para el desarrollo de software: adaptabilidad a entornos dinámicos, trabajo en equipo y resolución de problemas bajo presión en tiempo real.
 
-📫 **Contacto:** [LinkedIn](TuEnlace) | [Email](mailto:TuCorreo)
+📫 **Contacto:** [Email](mailto:carlos.suquilanda.2307@gmail.com)
