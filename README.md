@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="2752" height="1536" alt="Perfil de Carlos Daniel" src="https://github.com/user-attachments/assets/0a001edc-6336-4519-a2ff-7f532729a31c" />
+  <img width="2752" height="1300" alt="Perfil de Carlos Daniel" src="https://github.com/user-attachments/assets/0a001edc-6336-4519-a2ff-7f532729a31c" />
 
   # 👨‍💻 Carlos Suquilanda Basto
   **Future Data Analyst & Software Developer 🚀**
